@@ -2,7 +2,9 @@
 
 ### Languages & Tools
 <p aligh="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 </p>  
 
 <!--
