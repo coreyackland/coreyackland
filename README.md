@@ -2,7 +2,7 @@
 
 ### Languages & Tools
 <p aligh="left">
-  <img src="" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40"/>
 </p>  
 
 <!--
