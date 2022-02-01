@@ -6,6 +6,8 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40" height="40"/>
   <img src="https://img.icons8.com/pastel-glyph/64/000000/batch-script--v2.png" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/000000/external-microprocessor-artificial-intelligence-icongeek26-outline-gradient-icongeek26.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/nolan/64/circuit.png" width="40" height="40"/>
 </p>  
 
 <!--
