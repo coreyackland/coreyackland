@@ -8,6 +8,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/>
   <img src="https://img.icons8.com/external-icongeek26-outline-gradient-icongeek26/64/000000/external-microprocessor-artificial-intelligence-icongeek26-outline-gradient-icongeek26.png" width="40" height="40"/>
   <img src="https://img.icons8.com/nolan/64/circuit.png" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-blockchain-cryptocurrency-vitaliy-gorbachev-flat-vitaly-gorbachev.png" width="40" height="40"/>
 </p>  
 
 <!--
