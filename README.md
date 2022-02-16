@@ -1,4 +1,4 @@
-### Hi there, I'm Corey 👋
+### Hi there 👋
 
 ### Languages & Tools
 <p aligh="left">
