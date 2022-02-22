@@ -1,5 +1,5 @@
 ### Languages & Tools
-<p aligh="left" pointer-events="none>
+<p align="left" pointer-events="none">
   <a href="https://www.acklandtechnology.com" target="_self">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="40" height="40"/>
   </a>
