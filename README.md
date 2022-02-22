@@ -18,9 +18,6 @@
   <a href="https://www.acklandtechnology.com" target="_self">
     <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/58/000000/external-blockchain-cryptocurrency-vitaliy-gorbachev-flat-vitaly-gorbachev.png" width="40" height="40"/>
   </a>
-  <a href="https://www.acklandtechnology.com" target="_self">
-    <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-3d-file-design-tools-xnimrodx-lineal-gradient-xnimrodx.png" width="40" height="40"/>
-  </a>
 </p>  
 
 
